@@ -1,0 +1,20 @@
+{
+  "name": "beacon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignum": "^0.13.0",
+    "bls-lib": "^0.3.4",
+    "dkg": "^0.0.1",
+    "js-nacl": "^1.2.2",
+    "lodash": "^4.17.10",
+    "tweetnacl": "^1.0.0"
+  }
+}
